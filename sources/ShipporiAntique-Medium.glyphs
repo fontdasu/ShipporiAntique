@@ -40257,8 +40257,16 @@ instances = (
 {
 customParameters = (
 {
+name = postscriptFontName;
+value = "ShipporiAntique-Medium";
+},
+{
+name = weightClass;
+value = 400;
+},
+{
 name = postscriptFullName;
-value = "しっぽりアンチック";
+value = "しっぽり明朝 Medium";
 }
 );
 instanceInterpolations = {
