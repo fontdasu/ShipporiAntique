@@ -29,8 +29,8 @@ ver２.00では、濁点仮名の追加、基本ASCII＋Laten-1文字の追加�
 ・漢字はSILライセンスの<a href="https://github.com/ButTaiwan/genseki-font" target="_blank">源石ゴシック</a>のものを収録
 
 <h2>組見本</h2>
-<img src="./sample２.png" />
-<a href="./sample２.pdf" target="_blank">ネーム組み見本PDFファイル</a><br />
+<img src="./sample2.png" />
+<a href="./sample2.pdf" target="_blank">ネーム組み見本PDFファイル</a><br />
 
 ※組見本は、<a href="https://www.kakuya.com/" target="_blank">大阪の漫画制作会社画屋（かくや）</a>の小川満洋さんに、漫画用のフォントを作っているとお話したら、わざわざネームの組見本を作っていただけました。この漫画は転載自由とのことですのでご自由にお使いください。<br />
 
