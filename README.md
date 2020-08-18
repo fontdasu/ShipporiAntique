@@ -28,11 +28,15 @@ ver２.00では、濁点仮名の追加、基本ASCII＋Laten-1文字の追加�
 ・ひらがな、カタカナ、全角英数、全角記号、縦書き用文字、濁点仮名<br />
 ・漢字はSILライセンスの<a href="https://github.com/ButTaiwan/genseki-font" target="_blank">源石ゴシック</a>のものを収録
 
+
 <h2>組見本</h2>
 <img src="./sample2.jpg" />
 
 ※組見本は、<a href="https://www.kakuya.com/" target="_blank">大阪の漫画制作会社画屋（かくや）</a>の小川満洋さんに、漫画用のフォントを作っているとお話したら、わざわざネームの組見本を作っていただけました。この漫画は転載自由とのことですのでご自由にお使いください。<br />（<a href="./sample2.pdf" target="_blank">ネーム組見本PDFファイル</a><br />）
 
+<h2>文字サンプル</h2>
+
+<img src="./sample3.png" />
 
 <h2>できないこと</h2>
 ・作成した派生フォントの名前に「しっぽりアンチック」の文字を含めることはできません。<br />
