@@ -29,7 +29,7 @@ ver２.00では、濁点仮名の追加、基本ASCII＋Laten-1文字の追加�
 <h2>収録文字</h2>
 ・基本ASCII＋Laten-1文字<br />
 ・ひらがな、カタカナ、全角英数、全角記号、縦書き用文字、濁点仮名<br />
-・漢字はSILライセンスの<a href="https://github.com/ButTaiwan/genseki-font" target="_blank">源石ゴシック</a>のものを収録
+・漢字のみSILライセンスの<a href="https://github.com/ButTaiwan/genseki-font" target="_blank">源石ゴシック</a>のものを収録
 
 
 <h2>ネーム組見本</h2>
