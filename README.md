@@ -16,7 +16,7 @@ ver２.00では、濁点仮名の追加、基本ASCII＋Laten-1文字の追加�
 漢字のみSILライセンスの<a href="https://github.com/ButTaiwan/genseki-font" target="_blank">源石ゴシック</a>（同じくSILライセンスの源ノ明朝の派生フォント。）を収録しています。<br />
 しっぽりアンチックB1という、文字のエッジがさらにボケているヴァージョンも制作しています。<br />
 
-<img src="./sample５.png" />
+<img src="./sample5.png" />
 
 <h2>濁点付き仮名を収録</h2>
 
