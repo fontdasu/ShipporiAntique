@@ -13,7 +13,7 @@
 ver２.00では、濁点仮名の追加、基本ASCII＋Laten-1文字の追加、漢字はSILライセンスの源石ゴシックの漢字を収録しました。<br />
 
 <h2>漢字としっぽり明朝B1について</h2>
-漢字のみSILライセンスの<a href="https://github.com/ButTaiwan/genseki-font" target="_blank">源石ゴシック</a>（同じくSILライセンスの源ノ明朝の派生フォント。）を収録しています。<br />
+漢字のみSILライセンスの<a href="https://github.com/ButTaiwan/genseki-font" target="_blank">源石ゴシック</a>（同じくSILライセンスの源ノ角ゴシックの派生フォント。）を収録しています。<br />
 しっぽりアンチックB1という、文字のエッジがさらにボケているヴァージョンも制作しています。<br />
 
 <img src="./sample5.png" />
