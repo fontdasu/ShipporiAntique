@@ -35,7 +35,7 @@ ver２.00では、濁点仮名の追加、基本ASCII＋Laten-1文字の追加�
 　ただし、配布の際はSIL Open Font Licenseに基づいてリリースする必要があります。<br />
 
 ・SILライセンスについて詳しくはライセンス原文日本語サイト
-　（ https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1 ）
+　（ https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html ）
 　または同梱の「OFL.txt」（英語）をご確認ください。<br />
 
 
