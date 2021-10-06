@@ -58,6 +58,13 @@ doc.close()
 # And here's the rest of the 'normal' build process
 # *************************************************
 
+def GASP_set(font:TTFont):
+    if "gasp" not in font:
+        font["gasp"] = newTable("gasp")
+        font["gasp"].gaspRange = {}
+    if font["gasp"].gaspRange != {65535: 0x000A}:
+        font["gasp"].gaspRange = {65535: 0x000A}
+
 exportPath = Path("fonts/ttf")
 
 for file in exportPath.glob("*.ttf"):
@@ -69,18 +76,7 @@ for file in exportPath.glob("*.ttf"):
     modifiedFont["DSIG"].usFlag = 0
     modifiedFont["DSIG"].usNumSigs = 0
     modifiedFont["DSIG"].signatureRecords = []
-    modifiedFont["head"].flags |= 1 << 3        #sets flag to always round PPEM to integer
+
+    GASP_set(modifiedFont)
 
     modifiedFont.save(file)
-
-    print ("["+str(file).split("/")[2][:-4]+"] Autohinting")
-    subprocess.check_call(
-            [
-                "ttfautohint",
-                "--stem-width",
-                "nsn",
-                str(file),
-                str(file)[:-4]+"-hinted.ttf",
-            ]
-        )
-    shutil.move(str(file)[:-4]+"-hinted.ttf", str(file))
